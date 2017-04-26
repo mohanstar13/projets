@@ -1,0 +1,31 @@
+[?10/?19/?2016 6:11 AM] Sheryl Deepika: 
+No Title
+Capability Area	New Distribution List  
+Level 1	DL-TAE-LEVEL1
+CAAM  (Dc1)	        DL-CAAM-TAE-LEVEL2
+Product Solutions	DL-PS-LH-MF-TAE-LEVEL2
+ 	                DL-PS-RATING-TAE-LEVEL2
+ 	                DL-PS-FIRE-TAE-LEVEL2
+ 	                DL-PS-HOST-AUTOFIRE-TAE-LEVEL2   
+ 	                DL-PS-UND-AFWEB-TAE-LEVEL2
+ 	                DL-PS-BANK-CC-TAE-LEVEL2
+ 	                DL-PS-AUTO-TAE-LEVEL2
+Claims (Dc4)	        DL-CD-TAE-LEVEL2
+Customer Communication	DL-CUSTCOMM-TAE-LEVEL2
+GFS (Dc8)	        DL-GFS-TAE-LEVEL2
+BAF (Dc9)	        DL-SYS-BAF-TAE-LEVEL2 
+Customer Care (Dc10)	DL-CES-TAE-Digital-Level2
+ 	                DL-CES-TAE-CustomerCare-Level2 
+ 	                DL-CES-TAE-CollabServices-Level2
+ST (ISEIT)	        DL-ST-DIS-TAE-LEVEL2
+Track IT Team	        DL-HOME-TRACKIT-TOOLSUPPORT
+Deployment Team	        DL-HOME-SYS-TCS-DEPLOYMENT 
+Tool Support Team	DL-TCS-Tools-Support
+IC	                HOME SYS-TCS-OFFSHORE-IC-TEAM 
+ProActive Monitoring	DL-SYS-OFFSHORE-REPLMONITORING 
+
+
+
+art link - https://artap.htcinc.com/artap/login.asp 
+
+http://lt00as20.opr.statefarm.org/artifactory/webapp/home.html?1 
